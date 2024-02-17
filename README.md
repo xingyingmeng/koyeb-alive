@@ -2,13 +2,13 @@
 主要用于koyeb搭建哪吒探针的保活，也可以保活koyeb的其他项目
 
 ## koyeb api key申请
-1. 右上角点击account setting
+1. 右上角点击account setting <br>
 ![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/1.png)
 
-2. 选择第三个
-![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/1.png)
+2. 选择第三个 <br>
+![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/2.png)
 
-3. 得到key
+3. 得到key <br>
 ![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/3.png)
 
 ## 相关变量
