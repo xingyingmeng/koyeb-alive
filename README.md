@@ -27,7 +27,7 @@ koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃
 apt install python3 python3-pip
 pip3 install requests
 ```
-设置cron定期执行即可
+设置cron定期执行
 ```
 crontab -e
 ```
