@@ -31,11 +31,11 @@ pip3 install requests
 ```
 crontab -e
 ```
-不需要url保活，每天执行一次
+不需要url保活, 每天执行一次
 ```
 0 18 * * * /usr/bin/python3 ~/main.py
 ```
-需要url保活,每两分钟访问一次
+需要url保活, 每两分钟访问一次
 ```
 */2 * * * * /usr/bin/python3 ~/main.py
 ```
