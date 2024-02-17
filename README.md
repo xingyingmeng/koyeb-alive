@@ -22,7 +22,7 @@ koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃
   | tgchat_id              | 否 | tg id |
 
 ## 如何使用
-填好变量，确保有python环境，安装requests库
+仅需下载main.py并填好变量，确保有python环境，安装requests库
 ```bash
 apt install python3 python3-pip
 pip3 install requests
