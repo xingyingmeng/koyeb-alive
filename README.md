@@ -15,6 +15,7 @@ koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃
 ## 相关变量
   | 变量名        | 是否必须  | 备注 |
   | ------------ | ------   | ---- |
+  | app_url             | 是 | koyeb的app的域名或argo域名 |
   | app_name             | 是 | koyeb的app名 |
   | api_key         | 是 | koyeb的api key |
   | tgbot_token           | 否 | tg bot token |
@@ -30,7 +31,11 @@ pip3 install requests
 ```
 crontab -e
 ```
-每天晚上6点执行
+不需要url保活，每天执行一次
 ```
-0 18 * * * /usr/bin/python3 ~/koyeb.py
+0 18 * * * /usr/bin/python3 ~/main.py
+```
+需要url保活,每两分钟访问一次
+```
+*/2 * * * * /usr/bin/python3 ~/main.py
 ```
