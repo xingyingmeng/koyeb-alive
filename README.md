@@ -1,5 +1,5 @@
 # koyeb-alive
-主要用于koyeb搭建哪吒探针的保活，也可以保活koyeb的其他项目
+koyeb在搭建完探针以后长时间不登陆会自动暂停，没法舒服吃灰(~~白嫖~~ ,本脚本用于检查koyeb app状态是否正常，如果不正常则尝试恢复并在成功后发送tg消息到指定用户
 
 ## koyeb api key申请
 1. 右上角点击account setting <br>
