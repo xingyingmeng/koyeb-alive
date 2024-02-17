@@ -1,5 +1,5 @@
 # koyeb-alive
-koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃灰(~~白嫖~~  <br>
+koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃灰 (~~白嫖~~  <br>
 脚本可以检查koyeb app状态是否正常，如果不正常则尝试恢复并在成功后发送tg消息到指定用户
 
 ## koyeb api key申请
@@ -7,10 +7,10 @@ koyeb在搭建完探针以后长时间不登陆会强制暂停，没法舒服吃
 ![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/1.png)
 
 2. 选择第三个 <br>
-![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/2.png)
+![图2](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/2.png)
 
 3. 得到key <br>
-![图1](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/3.png)
+![图3](https://raw.githubusercontent.com/zhuifan1/koyeb-alive/main/pic/3.png)
 
 ## 相关变量
   | 变量名        | 是否必须  | 备注 |
