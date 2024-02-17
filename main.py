@@ -4,7 +4,7 @@ import requests
 app_url = "https://xxxx.koyeb.app/"    #填写koyeb的app域名或argo的域名
 app_name = 'nezha'      # 填写应用名称
 api_key = ''     # 填写api key
-base_url = 'https://app.koyeb.com/v1/apps' 
+base_url = 'https://app.koyeb.com/v1/apps'   # 这个不要动
 
 # Telegram 变量，不填则默认不用
 tgbot_token = ''    # 填写Telegram bot token
